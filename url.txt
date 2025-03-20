@@ -1,2 +1,2 @@
 streamlit url: https://e-commercedashboard-ikhtiyararif.streamlit.app/
-github repository: 
+github repository: https://github.com/Ikhtiyararif/e-commerce_dashboard/
